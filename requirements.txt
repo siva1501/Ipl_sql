@@ -1,0 +1,2 @@
+# Optional dependencies (Python's built-in sqlite3 works out-of-the-box)
+matplotlib>=3.7.0
